@@ -9,5 +9,5 @@ funtion happyCustomHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
 funtion holidayCountdown(holiday, days){
-  
+
 }
