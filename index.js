@@ -10,4 +10,3 @@ funtion happyHolidaysTo(name) {
 funtion happyCustomHolidayTo(holiday, name) {
   return `Happy ${holiday}, ${name}!`
 }
-
